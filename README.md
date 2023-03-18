@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 Horiseon should have properally placed semantic elements. To check online the structure and outline of the code, right click the page, and select "Inspect." 
-![alt text](./assets/Images/top.png)
+![alt text](./develop/Images/top.png)
 
 ## Credits
 
