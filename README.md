@@ -4,14 +4,14 @@
 
 Horiseon module1 was originally in non-semantic code. By creating a repository to change the original code to semantic, Horiseon  should not change fundamentally. 
 
-## Installation
+## URL 
 
-N/A
+https://annaleebeltran.github.io/module1/
 
 ## Usage
 
 Horiseon should have properally placed semantic elements. To check online the structure and outline of the code, right click the page, and select "Inspect." 
-![alt text](./develop/Images/top.png)
+![alt text](./assets/images/top.png)
 
 ## Credits
 
